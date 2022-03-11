@@ -16,6 +16,14 @@ Para utilizar o proxy inicie a aplicação utilizando o comando: npm run start
 _______________________________________________________________________________________________________
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
+_______________________________________________________________________________________________________
+
+## Imagens do Projeto:
+
+### Página inicial 
+
+![Pagina](https://user-images.githubusercontent.com/83045002/157965719-4aee100c-34bc-4ed1-bb26-8c7328e1cae1.png)
+_______________________________________________________________________________________________________
 
 ## Development server
 
